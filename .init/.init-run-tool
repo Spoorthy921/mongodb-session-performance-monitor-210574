@@ -1,0 +1,4 @@
+{
+    "command": "CI=true PORT=<port> HOST=<host> npm run dev",
+    "working_directory": "/home/kavia/workspace/code-generation/mongodb-session-performance-monitor-210574/test_session_backend"
+}
